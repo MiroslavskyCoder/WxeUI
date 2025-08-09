@@ -1,0 +1,11 @@
+# Ignore build directories and Visual Studio Code configuration files
+
+# CMake build directories
+build/
+CMakeFiles/ 
+cmake_install.cmake
+Makefile
+
+# Visual Studio Code settings
+.vscode/
+
